@@ -20,7 +20,6 @@ tsconfig.vitest-temp.json
 tsconfig.dts-tmp-*.json
 .dts-emit/
 
-.env.local
 
 # https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
 .pnp.*
@@ -94,3 +93,4 @@ scripts/eval/results
 
 # Unknown
 .omc
+config.bat
