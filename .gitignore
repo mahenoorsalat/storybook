@@ -18,7 +18,6 @@ test-results
 /.npmrc
 tsconfig.vitest-temp.json
 
-.env.local
 
 # https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
 .pnp.*
@@ -92,3 +91,4 @@ scripts/eval/results
 
 # Unknown
 .omc
+config.bat
